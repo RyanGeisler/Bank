@@ -1,4 +1,3 @@
-// import { Route, Switch, Redirect } from 'react-router-dom';
 import './App.css';
 import Footer from './components/footer/Footer';
 import Nav1 from './components/Nav/Nav1';
