@@ -3,11 +3,13 @@
 ### About
 This website is a landing page for SBM Bank Project
 
-![Landing-page.jpg](./public/home/Capture.PNG)
+<img width="1728" alt="Screen Shot 2022-11-20 at 4 20 38 PM" src="https://user-images.githubusercontent.com/106827524/202929437-9e1cbb02-9276-4e70-999a-ad1707dbcfae.png">
 
 
 
-![Landing-page.jpg](./public/home/Capture7.PNG)
+
+<img width="1726" alt="Screen Shot 2022-11-20 at 4 20 58 PM" src="https://user-images.githubusercontent.com/106827524/202929442-06bd35ec-dd60-403c-a8e1-00514eac46af.png">
+
 
 ### Screenshots
 
