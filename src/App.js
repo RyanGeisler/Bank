@@ -35,15 +35,15 @@ function App() {
       <Slider />
       <Nav1 />
       <Nav2 />
-      {/* <Banner /> */}
       <Ticker />
       <BusinessSolutions />
-      {/* <Solutions /> */}
       <EliteBanking />
       <LoanCalculator />
       <Tools />
       <Apps />
       <Footer />
+      {/* <Solutions /> */}
+       {/* <Banner /> */}
     </div>
   );
 }

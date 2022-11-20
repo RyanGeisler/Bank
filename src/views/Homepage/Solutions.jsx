@@ -1,14 +1,8 @@
 import React from 'react';
-
-import sol1 from '../../assets/img/solutions/solution1.png';
-import sol2 from '../../assets/img/solutions/solution2.png';
-import sol3 from '../../assets/img/solutions/solution3.png';
 import sol7 from '../../assets/img/solutions/solution7.png';
 import sol8 from '../../assets/img/solutions/solution8.png';
 import sol9 from '../../assets/img/solutions/solution9.png';
 import './solutions.css';
-
-import { TinySliderInfo, TinySliderInstance, TinySliderSettings } from 'tiny-slider';
 
 function Solutions() {
   return (
